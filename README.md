@@ -87,6 +87,10 @@ The Slicers allowed the filtering on the information and three Slicers was used,
 ![png6](https://github.com/Horlawuhmi/POWER-BI-PROJECT-1/assets/139240835/bfe11173-b988-4771-a29e-89682204ff4b)
 
 
-
 # CONCLUSION 
+The analysis showed that US and SPAIN had the highest number of users and same countries generated the most revenue for the given month, it was also revealed that the most subscription was the BASIC type and FEMALE gender used the platform mostly. The most used device was the TABLET while the age range that made used of the olatform was mostly between 30 to 39 and 40 to 49. The least user's was fromed mexico and generated the least revenue.
 
+# RECOMMENDATION 
+* More adverts be carried out in countries with least revenue.
+* Interesting shows and movies can be stream to entice the users.
+* The least subscription type can offer discount or vouchers to bring in more users.
